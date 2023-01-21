@@ -1,1 +1,1 @@
-export * from "./Flipbook";
+export * from "./components";

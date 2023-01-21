@@ -4,6 +4,6 @@ export interface FlipbookProps {
   canvasWidth?: number;
   canvasHeight?: number;
   className?: string;
-  startingFrame: number;
-  endingFrame: number;
+  startingFrame?: number;
+  endingFrame?: number;
 }
