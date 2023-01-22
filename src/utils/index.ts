@@ -1,1 +1,2 @@
-export { getImagePath } from './image-manager';
+export { preloadFrames } from './image-manager';
+export { getFramePath } from './image-manager';
